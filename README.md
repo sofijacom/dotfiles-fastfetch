@@ -5,6 +5,8 @@
 
 ![2025-02-12_17-01](https://github.com/user-attachments/assets/8274d72f-a528-44dc-a9ab-740e59112dd7)
 
+![2025-02-12_17-27](https://github.com/user-attachments/assets/e08e0c47-da2e-436e-b02c-c781a96e45de)
+
 
 <a id="installation"></a>  
 <img src="https://github.com/user-attachments/assets/7e1e2fa0-ab50-4901-a024-fe731fb44ab3" width="200"/>
