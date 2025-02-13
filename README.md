@@ -8,5 +8,5 @@
 ---
 
 ```
-git clone https://github.com/sofijacom/dotfiles-fastfetch.git
+git clone https://github.com/sofijacom/dotfiles-fastfetch-fastfetch-void.git
 ```
