@@ -15,10 +15,10 @@
     "source": "$(find \"${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/png/\" -name \"*.png\" | shuf -n 1)",
 //    "source": "$HOME/.config/fastfetch/ascii/rose.txt",
     "padding": {
-      "top": 2,
+      "top": 3,
       "right": 5
     },
-    "height": 18
+    "height": 16
   },
   "display": {
     "separator": " ▸ " // :
@@ -35,27 +35,27 @@
 {
   "type": "os",
   "key": "",
-  "keycolor": "red"
+  "keycolor": "cyan"
 },
 {
   "type": "kernel",
   "key": "",
-  "keycolor": "red"
+  "keycolor": "cyan"
 },
 {
   "type": "de",
   "key": "",
-  "keycolor": "green"
+  "keycolor": "cyan"
 },
 {
   "type": "wm",
   "key": "",
-  "keycolor": "green"
+  "keycolor": "cyan"
 },
 {
   "type": "packages",
   "key": "",
-  "keycolor": "yellow"
+  "keycolor": "cyan"
 },
 {
   "type": "custom",
@@ -64,32 +64,32 @@
 {
   "type": "memory",
   "key": "",
-  "keycolor": "blue"
+  "keycolor": "cyan"
 },
 {
   "type": "cpu",
   "key": "",
-  "keycolor": "blue"
+  "keycolor": "cyan"
 },
 {
   "type": "gpu",
   "key": "",
-  "keycolor": "magenta"
+  "keycolor": "cyan"
 },
 {
   "type": "swap",
   "key": "",
-  "keycolor": "magenta"
+  "keycolor": "cyan"
 },
 {
   "type": "disk",
   "key": "",
-  "keycolor": "red"
+  "keycolor": "cyan"
 },
 {
   "type": "battery",
   "key": "",
-  "keycolor": "red"
+  "keycolor": "cyan"
 },
 {
   "type": "custom",
@@ -98,12 +98,12 @@
 {
   "type": "uptime",
   "key": "",
-  "keycolor": "yellow"
+  "keycolor": "cyan"
 },
 {
   "type": "terminal",
   "key": "",
-  "keycolor": "yellow"
+  "keycolor": "cyan"
 },
 {
   "type": "custom",
