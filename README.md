@@ -21,7 +21,8 @@
  git clone https://github.com/sofijacom/dotfiles-fastfetch.git ~/.config/fastfetch
 ```
 
-## _To display images in `*.png` format, set_:
+> _To display images in `*.png` format, set_:
+
 ```
 sudo pacman -Syu imagemagick
 ```
