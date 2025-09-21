@@ -20,3 +20,10 @@
 ```
  git clone https://github.com/sofijacom/dotfiles-fastfetch.git ~/.config/fastfetch
 ```
+
+
+## To display the image, please set:
+
+```
+sudo pacman -Syu imagemagick
+```
