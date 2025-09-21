@@ -22,7 +22,7 @@
 ```
 
 
-## To display the image, please set:
+## _To display the image, please set_:
 
 ```
 sudo pacman -Syu imagemagick
