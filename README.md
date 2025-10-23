@@ -24,6 +24,7 @@
  git clone https://github.com/sofijacom/dotfiles-fastfetch.git ~/.config/fastfetch
 ```
 
+> [!NOTE]
 > _To display images in `*.png` format, set_:
 
 ```
