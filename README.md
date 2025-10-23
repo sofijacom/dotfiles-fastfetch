@@ -30,8 +30,3 @@
 sudo pacman -Syu imagemagick
 ```
 
-> _Installation in Void Linux_
-
-```
-sudo xbps-install -Su ImageMagick
-```
