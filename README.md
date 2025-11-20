@@ -1,4 +1,4 @@
-![2025-02-12_16-25](https://github.com/user-attachments/assets/d92a1d9d-cd24-4e2e-95e5-e9e533e1b879)
+![2025-02-12_16-35](https://github.com/user-attachments/assets/bb66e42d-7770-4c9a-840d-cefadc617c9c)
 
 
 ![2025-02-12_16-35](https://github.com/user-attachments/assets/ba993930-eb2e-4bf8-8426-419cfb4c389e)
