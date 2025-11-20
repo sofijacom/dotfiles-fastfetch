@@ -15,7 +15,7 @@
     "source": "$(find \"${XDG_CONFIG_HOME:-$HOME/.config}/fastfetch/png/\" -name \"*.png\" | shuf -n 1)",
 //    "source": "$HOME/.config/fastfetch/ascii/rose.txt",
     "padding": {
-      "top": 2,
+      "top": 4,
       "right": 5
     },
     "height": 18
@@ -67,6 +67,11 @@
   "keycolor": "blue"
 },
 {
+  "type": "host",
+  "key": "",
+  "keycolor": "blue"
+},
+{
   "type": "cpu",
   "key": "",
   "keycolor": "blue"
@@ -102,6 +107,11 @@
 },
 {
   "type": "terminal",
+  "key": "",
+  "keycolor": "yellow"
+},
+{
+  "type": "locale",
   "key": "",
   "keycolor": "yellow"
 },
