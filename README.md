@@ -4,9 +4,6 @@
 ![2025-02-12_16-35](https://github.com/user-attachments/assets/ba993930-eb2e-4bf8-8426-419cfb4c389e)
 
 
-![2025-02-12_16-35](https://github.com/user-attachments/assets/9106c420-7dfc-47b6-8a9e-7374f0e7e8af)
-
-
 ![2025-02-12_16-59](https://github.com/user-attachments/assets/11045cd1-bfbe-4125-a685-4675af103ce4)
 
 
