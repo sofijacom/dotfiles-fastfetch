@@ -1,3 +1,6 @@
+<img width="740" height="408" alt="arch" src="https://github.com/user-attachments/assets/c3cd16a1-ccae-461e-8420-75dbfd8184af" />
+
+
 ![2025-02-12_16-35](https://github.com/user-attachments/assets/bb66e42d-7770-4c9a-840d-cefadc617c9c)
 
 
